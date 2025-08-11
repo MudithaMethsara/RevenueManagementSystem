@@ -45,7 +45,7 @@ public class AdminLogin extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Revenue Management System");
 
-        jLabel2.setText("img");
+        jLabel2.setText("image");
 
         jLabel3.setFont(new java.awt.Font("IBM Plex Sans SemiCondensed", 0, 14)); // NOI18N
         jLabel3.setText("Email :-");
